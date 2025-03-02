@@ -27,4 +27,5 @@ public static class UserInputHandler
         }
 
         return inputId;
-    }}
+    }
+}
